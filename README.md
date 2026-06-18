@@ -36,7 +36,7 @@ A project focusing on predicting a coffee shop's **Daily Sales ($)** based on op
 * **Multi-Model Training**: Fits and compares both **Support Vector Regressor (SVR)** and **Linear Regression**.
 * **Live Prediction Pipeline**: Scales new user inputs on the fly for instant sales estimates.
 
-###  Setup & Run
+###  Setup and Run
 * **Dataset**: Requires `coffee_shop_sales.csv`.
 * **Execution**: Pass an input (e.g., `[200]` customers) to get the predicted daily sales.
 
