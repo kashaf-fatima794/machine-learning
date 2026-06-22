@@ -4,7 +4,7 @@ Welcome to this collection of Machine Learning mini-projects! This repository sh
 
 ---
 
-##  Projects Index
+##  -Projects Index
 1. [ TV Ad Budget vs Sales Prediction (Linear Regression)](#1-tv-ad-budget-vs-sales-prediction)
 2. [ Coffee Shop Sales Prediction (SVR & Linear Regression)](#2-coffee-shop-sales-prediction)
 3. [ Customer Purchase Prediction (Gaussian Naive Bayes)](#3-customer-purchase-prediction)
