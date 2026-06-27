@@ -12,7 +12,7 @@ Welcome to this collection of Machine Learning mini-projects! This repository sh
 
 ---
 
-## 1.  TV Ad Budget vs Sales Prediction
+## 1.  TV Ad Budget VS Sales Prediction
 
 This project uses **Linear Regression** to analyze and predict product sales based on the TV advertising budget.
 
