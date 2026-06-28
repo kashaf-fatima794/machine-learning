@@ -72,10 +72,7 @@ A classification project using **Logistic Regression** to predict whether a stud
 
 ---
 ##  Common Technologies used
-* **Python 3**
-* **NumPy & Pandas** (Data manipulation)
-* **Matplotlib** (Data visualization)
-* **Scikit-Learn** (ML models, Preprocessing, and Evaluation)
+* **Python **
 * **NumPy & Pandas** (Data manipulation)
 * **Matplotlib** (Data visualization)
 * **Scikit-Learn** (ML models, Preprocessing, and Evaluation)
